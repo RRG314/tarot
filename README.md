@@ -186,8 +186,6 @@ Replace the PNG files in the `icons` folder. Keep the same filenames and sizes.
 
 ## License
 
-Free to use and modify. Card artwork included with permission.
+Apache 2.0
 
----
 
-Made with ✨ mystical energy ✨
