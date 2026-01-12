@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384" height="384" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1b4e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a2e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="384" height="384" fill="url(#grad)" rx="57.599999999999994"/>
+  <g transform="translate(192, 192)">
+    <!-- Mystical star symbol -->
+    <path d="M 0,-115.19999999999999 L 30.72,-30.72 L 115.19999999999999,0 L 30.72,30.72 L 0,115.19999999999999 L -30.72,30.72 L -115.19999999999999,0 L -30.72,-30.72 Z"
+          fill="#d4af37" opacity="0.9"/>
+    <!-- Inner circle -->
+    <circle cx="0" cy="0" r="57.599999999999994" fill="none" stroke="#d4af37" stroke-width="5.76" opacity="0.7"/>
+    <!-- Moon crescent -->
+    <path d="M 19.200000000000003,-96 A 46.08 46.08 0 1 1 19.200000000000003,96 A 30.72 30.72 0 1 0 19.200000000000003,-96"
+          fill="#f4e4bc" opacity="0.8"/>
+  </g>
+  <text x="192" y="326.4" font-family="serif" font-size="46.08" fill="#d4af37" text-anchor="middle" opacity="0.8">TAROT</text>
+</svg>
